@@ -12,8 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrid-a" alt="hrid-a" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ahmedhrid.me](https://ahmedhrid.me)
-
 - 💬 Ask me about **JavaScript, react, nextjs**
 
 - 📫 How to reach me **ahmedhridw@gmail.com**
