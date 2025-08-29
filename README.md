@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hrid!</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://www.ahmedhrid.me' >Ahmed Hrid</a>!</h1>
 <h3 align="center">I’m a Frontend developer focused on harnessing technology to make significant impacts in the tech industry and beyond.</h3>
 
 <h3>Technical Skills 🛠️</h3>
