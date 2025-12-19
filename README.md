@@ -8,9 +8,9 @@
   <li>Tools & Platforms: GitHub, Docker, Postman, Vercel...</li>
 </ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrid-a&label=Profile%20views&color=0e75b6&style=flat" alt="hrid-a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hrid-a&label=Profile%20views&color=0e75b6&style=flat" alt="Hrid-a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrid-a" alt="hrid-a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hrid-a" alt="Hrid-a" /></a> </p>
 
 - 💬 Ask me about **JavaScript, react, nextjs**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hrid-044895258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrid-044895258/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmedhrid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrid-044895258/" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages && Tools:
