@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm <a href='https://www.ahmedhrid.me' >Ahmed Hrid</a>!</h1>
+<h1 align="center">Hi 👋, I'm <a href='https://www.ahmedhrid.com' >Ahmed Hrid</a>!</h1>
 <h3 align="center">I’m a Frontend developer focused on harnessing technology to make significant impacts in the tech industry and beyond.</h3>
 
 <h3>Technical Skills 🛠️</h3>
 <ul>
   <li>Languages: JavaScript, TypeScript</li>
-  <li>Frameworks & Libraries: React, Next.js, Express.js</li>
+  <li>Frameworks & Libraries: React, Next.js, Vue.js, Express.js</li>
   <li>Tools & Platforms: GitHub, Docker, Postman, Vercel...</li>
 </ul>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, react, nextjs**
 
-- 📫 How to reach me **ahmedhridw@gmail.com**
+- 📫 How to reach me **me@ahmedhrid.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
